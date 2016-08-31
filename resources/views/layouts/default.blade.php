@@ -552,12 +552,11 @@
       <footer class="main-footer">
         <div class="pull-right hidden-xs">
           <b>Version</b> {{  config('version.hash_version') }}
-          <a target="_blank" class="btn btn-default btn-xs" href="https://snipe-it.readme.io">Documentation</a>
-          <a target="_blank" class="btn btn-default btn-xs" href="https://snipe-it-manual.readme.io">User's Manual</a>
-          <a target="_blank" class="btn btn-default btn-xs" href="https://snipeitapp.com/support/">Report a Bug</a>
+          <a class="btn btn-default btn-xs" href="#">Documentation</a>
+          <a class="btn btn-default btn-xs" href="#">User's Manual</a>
+          <a class="btn btn-default btn-xs" href="#">Report a Bug</a>
         </div>
-        <a target="_blank" href="https://snipeitapp.com">Snipe-IT</a> is an open source
-        project, made with <i class="fa fa-heart" style="color: #a94442; font-size: 10px"></i> by <a href="https://twitter.com/snipeyhead">@snipeyhead</a>.
+        <a target="_blank" href="http://www.inflibnet.ac.in">Asset Management Tool</a> managed by <i class="fa fa-heart" style="color: #a94442; font-size: 10px"></i> by <a href="http://inflibnet.ac.in">@inflibnet</a>.
       </footer>
 
 
